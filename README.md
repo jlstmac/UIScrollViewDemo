@@ -1,0 +1,3 @@
+# UIScrollViewDemo
+UIScrollView的panGestureRecognizer属性的使用
+修改UIScrollview的滑动区域
